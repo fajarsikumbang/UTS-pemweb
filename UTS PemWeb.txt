@@ -1,0 +1,7 @@
+1. Framework adalah sebuah kerangka yang digunakan untuk mempermudah programmer untuk membangun suatu aplikasi
+
+2. 1. Pembuatan aplikasi kopreasi simpan pinjam
+   2. - Akbar Rahmat Hidayat M      22416255201204
+      - Fajar Maulana               22416255201138
+      - Putra Pamungkas             22416255201152
+   3. Kami diminta untuk membuat sebuah aplikasi replika simpan pinjam, dikarenakan kami tidak diberikan akses untuk melihat isi tamppilan kopreasi simpan pinjam yang bersangkutan dengan alasan privasi.
